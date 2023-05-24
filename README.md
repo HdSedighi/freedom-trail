@@ -12,3 +12,7 @@ The problem can be solved using a dynamic programming approach, where we keep tr
 # Complexity
 - Time complexity: The time complexity is O(n⋅m), where n is the length of the key and m is the length of the ring. This is because we iterate through each character in the key and for each key character, we iterate through each character in the ring.
 - Space complexity: The space complexity is O(n⋅m), where n is the length of the key and m is the length of the ring. This is because we maintain a 2D dp array with dimensions of the lengths of the key and the ring.
+
+- ‐---------------
+- #creat dotnet project
+- dotnet new console -n proectname
