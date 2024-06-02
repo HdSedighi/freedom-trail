@@ -68,7 +68,7 @@ class Solution
 
     public static void Main(string[] args)
     {
-        string ring = "godding";
+        string ring = "goddingwrite text";
         string key = "gd";
         Solution solution = new Solution();
         int result = solution.FindRotateSteps(ring, key);

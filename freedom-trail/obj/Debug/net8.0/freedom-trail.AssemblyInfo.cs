@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("freedom-trail")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e038415d1fce748fe0138ad6020d204c1b5a9757")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+422c6de221797da53cbc69dc6f0f2a865b7b5d35")]
 [assembly: System.Reflection.AssemblyProductAttribute("freedom-trail")]
 [assembly: System.Reflection.AssemblyTitleAttribute("freedom-trail")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
